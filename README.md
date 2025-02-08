@@ -13,5 +13,6 @@ Features
 
 ✅ Written in Java
 
-Devoloped by
+Developed by
+
  Berk Uyar
