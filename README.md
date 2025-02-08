@@ -12,3 +12,6 @@ Features
 ✅ Displays each transition and final result
 
 ✅ Written in Java
+
+Devoloped by
+ Berk Uyar
